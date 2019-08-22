@@ -7,7 +7,7 @@ gnr = ["Nighttrain" , "November Rain" ,"You Could Be Mine" , "Welcome To The Jun
 end
 
 def add_element_to_end_of_array(array, element)
-
+gnr << "Sweet Child Of Mine"
 end
 
 def add_element_to_start_of_array(array, element)
