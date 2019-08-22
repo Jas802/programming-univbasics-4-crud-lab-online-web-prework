@@ -19,7 +19,7 @@ Welcome To The Jungle = gnr.pop
 end
 
 def remove_element_from_start_of_array(array)
-
+Nighttrain = gnr.shift
 end
 
 def retrieve_element_from_index(array, index_number)
