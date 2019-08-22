@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-
+gnr = ["Nighttrain" , "November Rain" ,"You Could Be Mine" , "Welcome To The Jungle" ]
 end
 
 def add_element_to_end_of_array(array, element)
