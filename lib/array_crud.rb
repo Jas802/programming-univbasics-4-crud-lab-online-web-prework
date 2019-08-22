@@ -15,7 +15,7 @@ gnr.unshift("Live And Let Die")
 end
 
 def remove_element_from_end_of_array(array)
-
+Welcome To The Jungle = gnr.pop
 end
 
 def remove_element_from_start_of_array(array)
